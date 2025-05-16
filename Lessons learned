@@ -1,0 +1,3 @@
+How to create an interactive card visuals in Excel.
+Always check for data type when performing data profiling.
+Always start with profiling the data by checking for errors, null, blank columns/rows, duplicates. Look at the data structure to look at what information is contained in the columns
